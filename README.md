@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamSangohan
 - 👀 I’m interested in Machine Learning et Robotic
-- 🌱 I’m currently learning Flutter and NodeJS
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on a Web App or Mobile App
 - 📫 How to reach me ...
 
